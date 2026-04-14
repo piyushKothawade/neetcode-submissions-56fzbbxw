@@ -1,4 +1,4 @@
-# NeetCode Solutions — @piyushKothawade
+# NeetCode Solutions — Piyush Kothawade
 
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions-56fzbbxw`
 
